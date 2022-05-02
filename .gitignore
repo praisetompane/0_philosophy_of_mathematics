@@ -1,0 +1,10 @@
+*.vscode
+*.DS_Store
+
+#Administrative
+34_impl_repos
+studies
+literature
+open_source
+.dccache
+Oxford University, Joel David Hamkins

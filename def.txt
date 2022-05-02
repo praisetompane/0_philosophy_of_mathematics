@@ -1,0 +1,59 @@
+Assumming Mathematics is treated as Science,¹ 
+    this a branch of the Philosophy of Science.
+    Next to the Philosophy of Physics, Philosophy of Biology etc.
+
+The Natural Sciences² 
+    Domain: entities located in Space and Time.
+    Knowledge acquisition: inductive methods
+    Knowledge characteristics:
+        - appear to be less certain and open to revision as we gain greater understanding.
+
+Mathematics(Mathematical Science)³ 
+    Domain: Not clear whether objects studied in Mathematics, occupy Space and Time.
+    Knowledge acquisition: deduction from basic principles
+    Knowledge characteristics:
+        - appear to be more certain an unchanging.
+
+Tackles questions, closely related to Central Problems in:⁴ 
+    - Epistimology
+    - Metaphysics
+
+    What the nature of Mathematical entities consisst in?
+    How can we have knowledge about Mathematical entities?
+    If above two intractable, then
+        Do Mathematical entities entities exist in the concrete world?
+
+Mathematical Logic⁵ 
+    def: field/setting within which, to some extent, Mathematical methods
+        have been brought to bare(used to tackle)
+        Philosophical questions about the nature of Mathematics
+
+    Used as this setting the field is broadly conceived as consisting of:
+        proof theory
+        model theory
+        set theory
+        computability theory
+
+What are the bottom Philosophical theories about the Nature of Mathematics?
+
+Schools:⁶ 
+    platonistic = rationalistic accounts of Mathematics(lost influence during the more empirical 19ᵗʰ century)
+    Non platonistic accounts(philosophical theories) of Mathematics:
+        - Logicism 
+        - Intuitionism
+        - Formalism
+        - Predictivism
+
+        - Logicism
+            - components:
+                - basic principles of Central Mathematical Theories(Dedekind and Peano)
+                - principles of Logic(Frege)
+        
+        - Intuitionism
+
+Logic
+
+Foundations of Mathematics
+
+references:
+    1,2,3,4,5,6 Philosophy of Mathematics.Stanford Encyclopedia of Philosophy.https://plato.stanford.edu/entries/philosophy-mathematics/#MatLogFouMat

@@ -1,0 +1,41 @@
+
+- Seem to be the CONTENT of OBJECTIVE TRUTHs¹ 
+    2+3=5 is not made up, not getting it from anyone etc it is OBJECTIVELY TRUE
+    Most Objective Truths are about OBJECTS
+        A lemon is yellow
+        An apple is red
+
+    Are numbers objects?
+        We can't sense them(see, feel, taste, etc)
+        Do not exist in Space and Time
+            Does not corrode, get old, can't ask about its physical properties(size, colour etc)
+        Does not reflect light
+
+        Plato's Theory of Forms:
+            attempts to define numbers as objects
+
+            def numbers: are forms.
+            def forms: are abstracl objectively existing objects.
+            i.e. Numbers are NOT part of spatia-ltemporal world
+
+            Reality is formal
+                The world of forms is the reality
+                    of which our spatial-temporal is a shadow
+        
+        Aristole
+            mathematics is about our world
+
+            def numbers: 
+                are properties of the objects in our spatial-temporal world.
+            
+            objection: Frege
+                objects DO NOT have numbers as properties
+                    They acquire a Number based on how we perceive or are thinking about them
+                        Example: Deck of cards
+                            Has Number property 4, when thinking about Suits
+                            Has Number property 52, when thinking about Deck Size
+
+            conclusion: World of Forms considered REFUTED.
+            
+references: 
+    1 Ray Monk, Intro to the Philosophy of Mathematics, Philosophy Cafe University of Southampton, https://cdn.southampton.ac.uk/assets/imported/transforms/content-block/UsefulDownloads_Download/5A494B342E5447259832E4B3A3F93A18/Ray_Monk_Phil_Cafe_Feb2013_talk_compact.mp3#_ga=2.175155562.932095375.1647676297-221458339.1647676297
